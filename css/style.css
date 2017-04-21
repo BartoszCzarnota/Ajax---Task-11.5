@@ -1,0 +1,50 @@
+body {
+	background: #3385ff;
+	color: #fff;
+	text-align: center;
+}
+header {
+	padding: 20px;
+}
+.box {
+	padding: 40px;
+	font-size: 3em;
+}
+.trigger {
+	padding: 18px 30px;
+	background: transparent;
+	margin-top: 50px;
+	border: solid 1px;
+	border-radius: 10px;
+	color: #fff;
+	cursor: pointer;
+}
+.trigger:hover {
+	color: #3385ff;
+	text-decoration: none;
+	background-color: #fff;
+	border-color: #fff;
+}
+.tweet {
+	padding: 20px 42px;
+	background: transparent;
+	margin: 30px;
+	border: solid 1px;
+	border-radius: 10px;
+	color: #fff;
+	cursor: pointer;
+	text-align: center;
+	text-decoration: none;
+}
+.tweet:hover {
+	color: #3385ff;
+	text-decoration: none;
+	background-color: #fff;
+	border-color: #fff;
+}
+.tweet:visited {
+	/*color: #fff;*/
+	text-decoration: none;
+	background-color: transparent;
+	border-color: #fff;
+}
