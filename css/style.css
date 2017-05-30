@@ -1,6 +1,9 @@
 body {
-	background: #3385ff;
-	color: #fff;
+	/*background: #3385ff;*/
+	background: url(https://images.pexels.com/photos/74241/rozdzial-strona-ksiazka-macro-74241.jpeg?w=940&h=650&auto=compress&cs=tinysrgb);
+	background-size: cover;
+	background-repeat: no-repeat;
+	color: #00264d;
 	text-align: center;
 }
 header {
@@ -16,14 +19,14 @@ header {
 	margin-top: 50px;
 	border: solid 1px;
 	border-radius: 10px;
-	color: #fff;
+	color: #00264d;
 	cursor: pointer;
 }
 .trigger:hover {
-	color: #3385ff;
+	color: #fff;
 	text-decoration: none;
-	background-color: #fff;
-	border-color: #fff;
+	background-color: #00264d;
+	border-color: #00264d;
 }
 .tweet {
 	padding: 20px 42px;
@@ -31,20 +34,20 @@ header {
 	margin: 30px;
 	border: solid 1px;
 	border-radius: 10px;
-	color: #fff;
+	color: #00264d;
 	cursor: pointer;
 	text-align: center;
 	text-decoration: none;
 }
 .tweet:hover {
-	color: #3385ff;
+	color: #fff;
 	text-decoration: none;
-	background-color: #fff;
-	border-color: #fff;
+	background-color: #00264d;
+	border-color: #00264d;
 }
 .tweet:visited {
-	/*color: #fff;*/
+	/*color: #00264d;*/
 	text-decoration: none;
 	background-color: transparent;
-	border-color: #fff;
+	border-color: #00264d;
 }
