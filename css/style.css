@@ -8,8 +8,8 @@ body {
 	background: url(https://images.pexels.com/photos/74241/rozdzial-strona-ksiazka-macro-74241.jpeg?w=940&h=650&auto=compress&cs=tinysrgb);
 	background-size: cover;
 	background-repeat: no-repeat;
-	background-position: center;
-	background-attachment: fixed;
+	/*background-position: center;
+	background-attachment: fixed;*/
 	color: #00264d;
 	text-align: center;
 	margin: 0;
