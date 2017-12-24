@@ -17,6 +17,10 @@ body {
 	/*height: 100vh;*/
 }
 
+main {
+	height: 100vh;
+}
+
 /* CONTAINER */
 
 .container {
@@ -119,7 +123,7 @@ header {
 	padding: 18px 30px;
 	background: transparent;
 	/*margin-top: 50px;*/
-	margin: 50px 0px 30px 15px;
+	margin: 50px 0px 30px 10px;
 	border: solid 1px;
 	border-radius: 10px;
 	color: #00264d;
@@ -135,7 +139,7 @@ header {
 	padding: 20px 42px;
 	background: transparent;
 	/*margin: 30px;*/
-	margin: 30px 15px;
+	margin: 50px 0px 30px 5px;
 	border: solid 1px;
 	border-radius: 10px;
 	color: #00264d;
@@ -192,10 +196,9 @@ footer p {
 	.col-offset-s-1 {margin-left: 8.33%;}
 	.col-offset-s-2 {margin-left: 16.66%;}
 
-	body
-		{
-			max-height: 600px;
-		}
+	body {
+		max-height: 600px;
+	}
 	.box {
 		padding: 15px;
 		font-size: 1em;
