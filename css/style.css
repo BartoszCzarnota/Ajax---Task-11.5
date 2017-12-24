@@ -156,9 +156,9 @@ header {
 
 /* MEDIA QUERIES */
 
-/*@media (max-width: 767px){
+@media (max-width: 767px){
 	/* For tablets: */
-	/*.col-s-1 {width: 8.33%;}
+	.col-s-1 {width: 8.33%;}
 	.col-s-2 {width: 16.66%;}
 	.col-s-3 {width: 25%;}
 	.col-s-4 {width: 33.33%;}
@@ -175,17 +175,17 @@ header {
 	.col-offset-s-1 {margin-left: 8.33%;}
 	.col-offset-s-2 {margin-left: 16.66%;}
 
-	.trigger {
+	/*.trigger {
 		width: 100px;
 	}
 
 	.fa {
 		width: 25px;
-	}
+	}*/
 
 @media (min-width: 768px) and (max-width: 1199px) {
 	/* For desktop: */
-	/*.col-m-1 {width: 8.33%;}
+	.col-m-1 {width: 8.33%;}
 	.col-m-2 {width: 16.66%;}
 	.col-m-3 {width: 25%;}
 	.col-m-4 {width: 33.33%;}
