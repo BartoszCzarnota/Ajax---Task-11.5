@@ -14,7 +14,7 @@ body {
 	text-align: center;
 	margin: 0;
 	position: relative;
-	height: 100vh;
+	height: 100%;
 }
 
 /* CONTAINER */
@@ -174,14 +174,6 @@ header {
 	.col-offset-s-0 {margin-left: 0;}
 	.col-offset-s-1 {margin-left: 8.33%;}
 	.col-offset-s-2 {margin-left: 16.66%;}
-
-	/*.trigger {
-		width: 100px;
-	}
-
-	.fa {
-		width: 25px;
-	}*/
 
 @media (min-width: 768px) and (max-width: 1199px) {
 	/* For desktop: */
