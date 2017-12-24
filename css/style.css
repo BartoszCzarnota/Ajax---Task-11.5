@@ -175,6 +175,11 @@ header {
 	.col-offset-s-1 {margin-left: 8.33%;}
 	.col-offset-s-2 {margin-left: 16.66%;}
 
+	.box {
+		padding: 20px;
+		font-size: 1.5em;
+	}
+
 @media (min-width: 768px) and (max-width: 1199px) {
 	/* For desktop: */
 	.col-m-1 {width: 8.33%;}
