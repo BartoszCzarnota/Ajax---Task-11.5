@@ -179,11 +179,10 @@ header {
 	.box {
 		padding: 15px;
 		font-size: 1em;
-		line-height: 15px;
 	}
-	/*.quote {
-
-	}*/
+	.quote, .author {
+		font-size: 20px;
+	}
 
 @media (min-width: 768px) and (max-width: 1199px) {
 	/* For desktop: */
