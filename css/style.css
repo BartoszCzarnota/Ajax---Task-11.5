@@ -205,7 +205,7 @@ footer p {
 		height: 200px;
 	}
 	.trigger {
-		margin: 50px 0px 30px 10px;
+		margin: 50px 0px 30px 5px;
 	}
 	.tweet {
 		margin: 50px 0px 30px 5px;
@@ -243,6 +243,13 @@ footer p {
 	.col-offset-m-0 {margin-left: 0;}
 	.col-offset-m-1 {margin-left: 8.33%;}
 	.col-offset-m-2 {margin-left: 16.66%;}
+
+	.trigger {
+		margin: 50px 0px 30px 5px;
+	}
+	.tweet {
+		margin: 50px 0px 30px 5px;
+	}
 
 	/* FOOTER */
     
