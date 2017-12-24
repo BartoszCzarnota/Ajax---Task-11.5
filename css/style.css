@@ -5,6 +5,10 @@ body {
 	background-repeat: no-repeat;
 	color: #00264d;
 	text-align: center;
+	background-position: center;
+	margin: 0;
+	background-attachment: fixed;
+	position: relative;
 }
 
 /* CONTAINER */
