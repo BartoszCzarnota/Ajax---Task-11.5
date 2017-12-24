@@ -1,3 +1,8 @@
+
+* {
+	box-sizing: border-box;
+}
+
 body {
 	/*background: #3385ff;*/
 	background: url(https://images.pexels.com/photos/74241/rozdzial-strona-ksiazka-macro-74241.jpeg?w=940&h=650&auto=compress&cs=tinysrgb);
@@ -13,11 +18,11 @@ body {
 
 /* CONTAINER */
 
-.container {
+/*.container {
     max-width: 1200px;
     margin: 0 auto;
     width: 100%;
-}
+}*/
 
 [class*="col-"] {
     float: left;
