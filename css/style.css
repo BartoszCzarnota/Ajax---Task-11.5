@@ -6,7 +6,7 @@
 body {
 	/*background: #3385ff;*/
 	background: url(https://images.pexels.com/photos/74241/rozdzial-strona-ksiazka-macro-74241.jpeg?w=940&h=650&auto=compress&cs=tinysrgb);
-	background-size: auto;
+	background-size: cover;
 	background-repeat: no-repeat;
 	/*background-position: center;*/
 	background-attachment: fixed;
@@ -14,7 +14,7 @@ body {
 	text-align: center;
 	margin: 0;
 	position: relative;
-	height: 100vh;
+	/*height: 100vh;*/
 }
 
 /* CONTAINER */
@@ -207,13 +207,13 @@ footer p {
 
 	/* FOOTER */
     
-    footer {
+    /*footer {
     	height: auto;
     	max-width: 100%;
     }
     footer p {
     	font-size: 17px;
-	}
+	}*/
 }
 
 @media (min-width: 768px) and (max-width: 1199px) {
@@ -237,11 +237,11 @@ footer p {
 
 	/* FOOTER */
     
-    footer {
+    /*footer {
     	height: auto;
     	max-width: 100%;
     }
     footer p {
     	font-size: 15px;
-	}
+	}*/
 }
